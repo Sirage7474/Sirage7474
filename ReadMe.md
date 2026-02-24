@@ -1,5 +1,5 @@
 # 💫 About Me:
-pcb designer
+PCB Layout Designer
 
 
 ## 🌐 Socials:
