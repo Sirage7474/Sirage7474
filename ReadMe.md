@@ -30,5 +30,3 @@ PCB Layout Designer with a passion for embedded systems and creative problem-sol
 
 ---  
 [![](https://visitcount.itsvg.in/api?id=Sirage7474&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
